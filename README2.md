@@ -2,7 +2,7 @@
 # Stock Data Visualization App
 
 
-This Python script creates an interactive web application for comparing stock data using Bokeh in Python. The application allows users to input two stock tickers, start and end dates, and select indicators to plot the data.
+This Python script creates an interactive web application for comparing stock data using Bokeh in Python. The application allows users to input two stock tickers, start and end dates, and select indicators to plot the data. It then prints out a candlestick chart showing the performance of stocks. 
 
 ### How to Use:
 1. Enter the stock tickers for comparison in the 'Stock1' and 'Stock2' input fields.
